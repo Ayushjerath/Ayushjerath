@@ -31,7 +31,7 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/ayush-jerath-6041a11b8" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
 <a href="mailto:ayush01jerath@icloud.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
 <a href="https://t.me/playerone_10" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>   
 	
