@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Ayush Jerathi</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Ayush Jerath</h1>
 
 <h2 align="center">A passionate computer science student from India</h2>
 
